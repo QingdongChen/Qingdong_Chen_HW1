@@ -9,7 +9,7 @@ Qingdong Chen
 ---
 
 
-##Team Member name
+## Team Member name
 Qingdong Chen and My cat "Pidan"
 
 ---
@@ -20,6 +20,8 @@ Qingdong Chen and My cat "Pidan"
 **Hobbies:** Basketball, Computer game, Travel, Cooking
 
 ![Fender Telecaster](images/饭.jpg)
+
+
 This is the first dish i learned to stew ribs. I always cook this dish when i am homesick.
 
 ![Fender Telecaster](images/旅游.jpg)
