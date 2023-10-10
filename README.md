@@ -17,6 +17,10 @@ Qingdong Chen and My cat "Pidan"
 
 ---
 
+**Where i am from:** I come Henan Province, China.
+
+---
+
 **Hobbies:** Basketball, Computer game, Travel, Cooking
 
 ![Fender Telecaster](images/饭.jpg)
